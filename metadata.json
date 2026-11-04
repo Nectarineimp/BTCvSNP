@@ -1,0 +1,6 @@
+{
+  "name": "Crypto vs Index: BTC & S&P 500 3D Intraday Graph",
+  "description": "Interactive animated 3D comparison graph of Bitcoin and the S&P 500 today with PBR rendering, timeline scrubbing, and financial metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
